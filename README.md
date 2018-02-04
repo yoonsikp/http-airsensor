@@ -6,6 +6,7 @@ Collects the following data and exposes it through an HTTP server:
 
 TBD:
 * Pressure
+* Carbon Monoxide
 
 
 ## Sensors supported
@@ -16,5 +17,6 @@ TBD:
 * BME280
 * DHT22
 * BMP180
+* MQ-7
 
 These sensors can easily be found on Aliexpress (don't forget to choose a seller with e-packet shipping)
