@@ -1,4 +1,4 @@
-# raspi-airsensor
+# http-airsensor
 Collects the following data and exposes it through an HTTP server:
 * Temperature
 * Humidity
