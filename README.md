@@ -15,9 +15,12 @@ TBD:
 
 TBD:
 * BME280
+* ZE07-CO
+
+Potential:
 * DHT22
 * BMP180
 * MQ-7
-* ZE07-CO
+* MICS-5524
 
 These sensors can easily be found on Aliexpress (don't forget to choose a seller with e-packet shipping)
