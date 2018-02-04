@@ -19,4 +19,5 @@ TBD:
 * BMP180
 * MQ-7
 * ZE07-CO
+
 These sensors can easily be found on Aliexpress (don't forget to choose a seller with e-packet shipping)
