@@ -11,7 +11,8 @@ TBD:
 
 ## Sensors supported
 * HDC1080
-* PMS3003 
+* PMS3003
+* Rasberry Pi CPU Temperature
 
 TBD:
 * BME280
