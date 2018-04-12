@@ -25,3 +25,7 @@ Potential:
 * MICS-5524
 
 These sensors can easily be found on Aliexpress (don't forget to choose a seller with e-packet shipping)
+
+## PMS3003
+Install pyserial first:
+`pip3 install pyserial`
